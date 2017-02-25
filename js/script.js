@@ -1,3 +1,3 @@
-function printText() {
+function beCute() {
     return "hi honsuck!";
 }
